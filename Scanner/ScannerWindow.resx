@@ -129,4 +129,29 @@
   <metadata name="timer2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>480, 17</value>
   </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAACAAAACwAAABUAAAAaAAAAGgAAABoAAAAaAAAAGgAAABoAAAAaAAAAGgAAABoAAAAVAAAACwAA
+        AAL///8AAAAAAwAAABUAAAApAgICNgcHB08KCgpwCwsLgQsLC4oLCwuBCgoKcAcHB08CAgI2AAAAKgAA
+        ABUAAAAD////AAAAAAIAAAALDg4OKhcXF3JbVlaluKys2ura2v/q2tr/6tra/7isrNpbVlalFxcXcg4O
+        DioAAAALAAAAAv///wAZGRkAKSkpFDc3N3eon5/LxcO6/nqSc/8eVxz/BlkG/x5XHP96knP/xcK6/qee
+        nss3NjZ3KSkpFBkZGQD///8AMTExBTAwMGGnoaHIr7Sn/xFPEP8ARQD/AEYA/wZsBv8ARgD/AEUA/xFP
+        EP+vtKf/pZ6eyDAwMGExMTEF////ADU1NStraWmatrmx/hBPD/8ASAD/BVgF/wtrC/8Mcgz/C2sL/wVY
+        Bf8ASAD/EE8P/7S2rv5oZmaaNTU1K////wA4ODhVr66u1WqIaP8ASQD/CF4I/xF0Ef8FWAX/FHoU/wVY
+        Bf8RdBH/CF4I/wBJAP9ph2j/p6Sk1Tg4OFX///8APDw8aM3MzP8ZVBn/AFAA/xh5GP8HXgf/AFIA/xyC
+        HP8AUgD/B14H/xh5GP8AUAD/GVQZ/8C/v/88PDxo////AEBAQG/Ly8v/InUi/zuhO/85nzn/NZs1/zGX
+        Mf8pjyn/JIok/ySKJP8kiiT/JIok/xZqFv/AwMD/QEBAb////wBERERl09PT/y5zLv87nDv/QadB/y2O
+        Lf8efB7/NJo0/wBbAP8LaQv/JYkl/wBYAP8ZVBn/xcbG/0RERGX///8AR0dHUL6+vtNyl3P/Q6RD/0Gl
+        Qf9CqEL/J4kn/zieOP8Obg7/LpMu/wAi3f8AUgD/aIlp/7Kzs9NHR0dQ////AEtLSyeCgoKSu8S7/i15
+        Lf8xkjH/L5Qv/zmfOf8+pD7/MZYx/xV6Ff8AXAD/EFEQ/7bAt/59fX2SS0tLJ////wBNTU0FTk5OVby8
+        vMKuu67/I2oj/xdxF/8NbQ3/QqhC/wBhAP8AVQD/EFIQ/6y5rP+2trbCTk5OVU1NTQX///8AT09PAFBQ
+        UBFfX19lv7+/wsPMw/53l3f/H1sf/yd6J/8cVxz/dZV1/8LLwv68vLzCXl5eZVBQUBFPT08A////AFFR
+        UQBRUVEAUlJSEVNTU1SKioqPzMzM0efn5//l5eX/5ubm/8rKytGJiYmPU1NTVFJSUhFRUVEAUVFRAP//
+        /wApKSkAUVFRAFJSUgBUVFQFVVVVJVVVVUpVVVVdVVVVZVVVVV1VVVVKVVVVJVRUVAVSUlIAUVFRAFFR
+        UQD///8AAAEAAAABAAAAAQAAgAMAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAIAD
+        AADABwAA4A8AAA==
+</value>
+  </data>
 </root>
